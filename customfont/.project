@@ -1,1 +1,6 @@
-NAME=Custom Button
+NAME=CustomFormula
+
+dependencies {
+    //compile 'de.congrace:exp4j:+'  //incase you need it
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+}
