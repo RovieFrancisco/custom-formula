@@ -1,0 +1,6 @@
+NAME=CustomFormula
+
+dependencies {
+    compile 'de.congrace:exp4j:+'
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+}
