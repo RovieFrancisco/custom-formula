@@ -21,3 +21,39 @@ This Repository allows the user to compute and solve a complex formula with vari
 
 ## Compute
 ![Screenshot_20210203-141950](https://user-images.githubusercontent.com/40444648/106743351-3c04c480-6659-11eb-8c76-32f8ae8ed0d4.png)
+
+## Some Usage
+```
+Operators and functions
+
+the following operators are supported:
+
+Addition: '2 + 2'
+Subtraction: '2 - 2'
+Multiplication: '2 * 2'
+Division: '2 / 2'
+Exponential: '2 ^ 2'
+Unary Minus,Plus (Sign Operators): '+2 - (-2)'
+Modulo: '2 % 2'
+the following functions are supported:
+
+abs: absolute value
+acos: arc cosine
+asin: arc sine
+atan: arc tangent
+cbrt: cubic root
+ceil: nearest upper integer
+cos: cosine
+cosh: hyperbolic cosine
+exp: euler's number raised to the power (e^x)
+floor: nearest lower integer
+log: logarithmus naturalis (base e)
+log2: logarithm to base 2 = log(x, 2)
+log10: logarithm to base 10 = log(x, 10)
+sin: sine
+sinh: hyperbolic sine
+sqrt: square root
+tan: tangent
+tanh: hyperbolic tangent
+signum: signum of a value
+```
